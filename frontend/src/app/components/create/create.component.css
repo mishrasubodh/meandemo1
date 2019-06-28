@@ -1,0 +1,19 @@
+.mat-form-field {
+     display: block !important;
+     position: relative;
+     text-align: left;
+ }
+.createcard{
+     
+}
+ .create-form{
+     max-width:600px !important;
+     margin: 0 auto;
+ }
+ #buttonbelow{
+      display: flex;
+      justify-content: center;
+ }
+ .mat-typography{
+      text-align: center;
+ }

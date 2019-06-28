@@ -1,0 +1,16 @@
+.mat-typography{
+     text-align: center;
+}
+.edit-form{
+     max-width:600px !important;
+     margin: 0 auto;
+}
+#belowbtn{
+     display: flex;
+     justify-content: center;
+}
+.mat-form-field {
+     display: block !important;
+     position: relative;
+     text-align: left;
+ }
